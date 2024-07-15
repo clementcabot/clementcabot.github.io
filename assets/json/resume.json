@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Clément Cabot",
+    "label": "Energy Economist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "clement.cabot@mines-paris.fr",
+    "phone": "",
+    "url": "https://clementcabot.github.io/",
+    "summary": "PhD in Energy Economics, CentraleSupélec Electrical Engineer.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "75005",
+      "city": "Paris",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": [
       {
@@ -24,14 +24,32 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Deloitte",
+      "position": "Manager",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Direct supervision of 2-5 team members. In charge of client engagment (200€ to 1M€). Expert for audit team, regulatory analysis, techno-economic assessment",
+      "highlights": ["Management"]
+    },
+    {
+    "name": "Deloitte",
+    "position": "Energy Economist",
+    "url": "",
+    "startDate": "2018-01-01",
+    "endDate": "2024-01-01",
+    "summary": "Senior energy economist, Manager. Extensive experiences in the energy and climate field",
+    "highlights": ["Economy"]
+  },
+   {
+  "name": "RTE",
+  "position": "Research Engineer",
+  "url": "",
+  "startDate": "2017-01-01",
+  "endDate": "2018-01-01",
+  "summary": "Analysis of the impact of the new market regulations and power mix. Developped a EU frequency model",
+  "highlights": ["Economy"]
+  }
   ],
   "volunteer": [
     {
@@ -151,7 +169,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
