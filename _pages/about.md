@@ -18,8 +18,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+FR
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Bonjour, et bienvenue sur mon site personnel en construction. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Je suis Clément Cabot, Manager chez Deloitte Economic Advisory France, spécialisé en Économie de l'Énergie. 
+
+Titulaire d'un doctorat en Économie de l'Énergie de Mines ParisTech et ingénieur diplômé de CentraleSupélec, je suis passionné par les politiques énergétiques et climatiques.
+
+À travers mes publications et articles de blog, je partage des analyses et réflexions sur les défis énergétiques mondiaux. 
+
+EN
+
+Hello, and welcome to my personal website under construction.
+
+I am Clément Cabot, a Manager at Deloitte Economic Advisory France, specializing in Energy Economics.
+
+With a PhD in Energy Economics from Mines ParisTech and an engineering degree from CentraleSupélec, I am passionate about energy and climate policies.
+
+Through my publications and blog posts, I share analyses and reflections on global energy challenges.
