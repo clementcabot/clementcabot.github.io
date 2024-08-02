@@ -99,11 +99,12 @@
     {
       "name": "Outdoors",
       "icon": "fa-solid fa-tag",
-      "keywords": [
+      "keywords":
+      [
         "Climbing",
         "Trail",
         "Cycling"
       ]
     }
-  ],
+  ]
 }
